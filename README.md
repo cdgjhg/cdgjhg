@@ -30,15 +30,6 @@
 - **科大讯飞** · 实习经历
 - **SenseTime 商汤科技** · 实习中
 
-### 📚 噜噜的笔记本
-
-不只记结论，也留下“为什么”和“怎么做”。
-
-- [子 Agent 的长结果，怎么交给父 Agent？](http://47.94.99.104:2026/posts/subagent-result-delivery)
-- [从 Token 到时延：串起 Prefill、Decode 与一次请求的等待](http://47.94.99.104:2026/posts/token-latency)
-- [Function Calling 怎么选：原生调用与 Prompt 模拟的边界](http://47.94.99.104:2026/posts/function-calling-choice)
-- [Deepsearch的调研](http://47.94.99.104:2026/posts/deepsearch-research)
-
 ---
 
 <div align="center">
