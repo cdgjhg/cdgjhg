@@ -10,7 +10,7 @@
 
 
 
-[📖 翻开我的技术博客](https://blog.xwd.info) 
+[📖 翻开我的技术博客](http://blog.xwd.info) 
 </div>
 
 ---
