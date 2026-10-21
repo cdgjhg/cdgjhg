@@ -4,9 +4,13 @@
 
 **武汉大学 · Agent 开发 · AI 应用开发 · 后端开发**
 
+🏸 中国羽毛球大师赛一等奖选手的 **观看者**  
+💬 国际人工智能领域 **资深对话框输入者**  
+🧩 GitHub 全球开源项目 **免费使用专家**
 
 
-[📖 翻开我的技术博客](blog.xwd.info) 
+
+[📖 翻开我的技术博客](https://blog.xwd.info) 
 </div>
 
 ---
@@ -34,15 +38,6 @@
 - [从 Token 到时延：串起 Prefill、Decode 与一次请求的等待](http://47.94.99.104:2026/posts/token-latency)
 - [Function Calling 怎么选：原生调用与 Prompt 模拟的边界](http://47.94.99.104:2026/posts/function-calling-choice)
 - [Deepsearch的调研](http://47.94.99.104:2026/posts/deepsearch-research)
-
-<details>
-<summary>🏸 顺便介绍一下我的另外三个身份</summary>
-
-- 中国羽毛球大师赛一等奖选手的观看者
-- 国际人工智能领域资深对话框输入者
-- GitHub 全球开源项目免费使用专家
-
-</details>
 
 ---
 
